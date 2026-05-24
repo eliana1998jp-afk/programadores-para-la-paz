@@ -1,1 +1,11 @@
-mkdir semana2
+Pregunta 1:
+Respuesta: B
+
+Pregunta 2:
+Respuesta: B
+
+Pregunta 3:
+Respuesta: C
+
+Pregunta 4:
+Respuesta: B
